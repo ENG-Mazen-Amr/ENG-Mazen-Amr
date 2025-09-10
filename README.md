@@ -1,3 +1,5 @@
+![logo](https://github.com/ENG-Mazen-Amr/ENG-Mazen-Amr/blob/main/Mazen%20Amr%20Ibrahim.png)
+
 <h1 align="center">Hi 👋, I'm Mazen Amr</h1>
 <h3 align="center">An engineering student (Mechatronics) passionate about Robotics, Artificial Intelligence, and Programming.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
